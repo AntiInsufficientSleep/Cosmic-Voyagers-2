@@ -13,6 +13,9 @@
 - **App Store**: [iOS 版をダウンロード](https://apps.apple.com/vn/app/cosmic-voyagers/id6477825398)
   - iPhone や iPadでのプレイに最適化されています。
 
+- **Play Store**: [Android 版をダウンロード](https://play.google.com/store/apps/details?id=space.cosmicvoyagers)
+    - Android スマートフォンやタブレットでのプレイに最適化されています。
+
 ## ゲームの特徴
 
 - 感動的な物語: 父の遺した謎と、宇宙への憧れを追求する心温まる物語。
