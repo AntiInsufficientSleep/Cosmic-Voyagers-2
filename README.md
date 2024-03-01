@@ -10,7 +10,7 @@
 - **PWA (プログレッシブウェブアプリ)**: [こちらからインストール](https://pwa.cosmic-voyagers.space/)
   - オフラインでもプレイ可能。ホーム画面に追加して、アプリのように利用しましょう。
 
-- **App Store**: [iOS版をダウンロード](https://apps.apple.com/vn/app/cosmic-voyagers/id6477825398)
+- **App Store**: [iOS 版をダウンロード](https://apps.apple.com/vn/app/cosmic-voyagers/id6477825398)
   - iPhone や iPadでのプレイに最適化されています。
 
 ## ゲームの特徴
