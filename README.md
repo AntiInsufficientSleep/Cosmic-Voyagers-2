@@ -4,7 +4,7 @@
 
 ## 利用可能なプラットフォーム
 
-- **Web版**: [こちらからプレイ](https://www.cosmic-voyagers.space/)
+- **Web**: [こちらからプレイ](https://www.cosmic-voyagers.space/)
   - どのデバイスからでもアクセス可能。インストール不要で手軽に始められます。
 
 - **PWA**: [こちらからインストール](https://pwa.cosmic-voyagers.space/)
